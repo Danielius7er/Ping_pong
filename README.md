@@ -1,7 +1,3 @@
-Aqui está a tradução do seu `README.md` para português. Mantive os emojis e a formatação original para que o visual continue impecável.
-
----
-
 # Jogo Pong 🎮
 
 Uma implementação clássica do jogo Pong usando HTML5, CSS3 e JavaScript puro (vanilla) com um oponente de IA em tempo real.
